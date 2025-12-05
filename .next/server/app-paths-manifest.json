@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/black-holes/page": "app/black-holes/page.js",
+  "/items/[id]/page": "app/items/[id]/page.js",
+  "/favorites/page": "app/favorites/page.js",
+  "/explore/page": "app/explore/page.js"
+}
